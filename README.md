@@ -1,0 +1,1 @@
+A Visual Answer to Olist's Data Science Project Business Question: ["Can we give the same benefits to all shopkeepers (sellers)? Or is there one that deserves to be highlighted?"](https://github.com/pauloreis-ds/olist/tree/main/business_questions_insights)
